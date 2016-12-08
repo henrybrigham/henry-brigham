@@ -84,6 +84,7 @@ margin-top: 100px;
 .contact-row {
   display: flex;
   flex-direction: row;
+  margin-top: 10px;
 }
 .contact-div {
   margin-left: auto;
@@ -99,4 +100,27 @@ margin-top: 100px;
 }
 .article {
   margin-top: 20px;
+}
+.skills {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+}
+.half-skills {
+  margin-left: auto;
+  margin-right: auto;
+}
+.link {
+  padding: 5px;
+}
+.contacts {
+  color: #6600ff;
+}
+.center {
+  display: flex;
+  justify-content: center;
+}
+.centered {
+  margin-left: auto;
+  margin-right: auto;
 }
