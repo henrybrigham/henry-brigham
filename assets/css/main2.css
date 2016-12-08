@@ -92,6 +92,7 @@ margin-top: 100px;
 .work-description {
   margin-bottom: 10px;
   color: #0099ff;
+  font-style: italic;
 }
 .work-bullet {
   font-weight: 400;
