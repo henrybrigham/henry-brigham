@@ -21,6 +21,25 @@
     -ms-transition: opacity 1s ease, -ms-transform 1s ease;
     transition: opacity 1s ease, transform 1s ease;
 }
+#greeting {
+  font-size: 5em;
+}
+#intro {
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+#links {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: center;
+}
+.link {
+  margin-left: 5px;
+  margin-right: 5px;
+  color: rgba(255, 255, 255, 0.5);
+}
 .profile {
   width: 150px;
   height: 200px;
@@ -51,6 +70,10 @@ margin-top: 100px;
   width: 300px;
   height: 300px;
 }
+.image {
+  width: 300px;
+  height: 300px;
+}
 .inner {
   margin-bottom: 40px;
 }
@@ -61,4 +84,13 @@ margin-top: 100px;
 .contact-div {
   margin-left: auto;
   margin-right: auto;
+}
+.work-description {
+  margin-bottom: 10px;
+}
+.work-bullet {
+  font-weight: 400;
+}
+.article {
+  margin-top: 20px;
 }
