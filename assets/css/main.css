@@ -1578,7 +1578,6 @@
 		-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
-		border-bottom: dotted 1px;
 		color: #49bf9d;
 		text-decoration: none;
 	}
@@ -1606,7 +1605,7 @@
 		color: #787878;
 		font-weight: 400;
 		line-height: 1em;
-		
+
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
