@@ -109,12 +109,22 @@ margin-top: 100px;
 .half-skills {
   margin-left: auto;
   margin-right: auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.skill-div {
+  display: flex;
+  flex-direction: row;
+  float:left;
+  width: 165px;
 }
 .link {
   padding: 5px;
 }
 .contacts {
   color: #6600ff;
+  list-style-type: none;
 }
 .center {
   display: flex;
@@ -123,4 +133,15 @@ margin-top: 100px;
 .centered {
   margin-left: auto;
   margin-right: auto;
+}
+.p-list {
+  dispay: inline;
+  margin-left: 10px;
+}
+.big-skills {
+  display: flex;
+  flex-direction: row;
+}
+.icon {
+  width: 20px;
 }
